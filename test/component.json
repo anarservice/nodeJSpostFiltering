@@ -1,0 +1,9 @@
+{
+    "name": "Spamist",
+
+    "main": "lib/Spamist.js",
+
+    "scripts": [
+        "lib/Spamist.js"
+    ]
+}
